@@ -1,18 +1,44 @@
-ini project flutter dari pak joko endriyanto membuat 14 tampilan ui di mobile
 
-# seven_day
+# Project Title
 
-A new Flutter project.
+jjjjj
+## Deployment
 
-## Getting Started
+To deploy this project run
 
-This project is a starting point for a Flutter application.
+```bash
+  npm run deploy
+```
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## FAQ
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Question 1
+
+Answer 1
+
+#### Question 2
+
+Answer 2
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
+
+## Usage/Examples
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
+
